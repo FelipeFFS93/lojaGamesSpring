@@ -1,4 +1,4 @@
-# Loga de Games em Spring
+# Loja de Games em Spring
 
 ### Tecnologias usadas no projeto
 
